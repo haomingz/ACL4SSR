@@ -1,3 +1,4 @@
 # PT
-DOMAIN-SUFFIX,piggo.me
-DOMAIN-SUFFIX,iptorrents.com
+payload:
+  - DOMAIN-SUFFIX,piggo.me
+  - DOMAIN-SUFFIX,iptorrents.com
