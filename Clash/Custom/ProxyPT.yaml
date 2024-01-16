@@ -1,7 +1,9 @@
 # PT
 payload:
   - DOMAIN-SUFFIX,avistaz.to
+  - DOMAIN-SUFFIX,torrentleech.me
   - DOMAIN-SUFFIX,torrentleech.org
-  - DOMAIN-SUFFIX,hd-bits.com
   - DOMAIN-SUFFIX,hdbits.org
+  - DOMAIN-SUFFIX,filelist.io
+  - DOMAIN-SUFFIX,asiancinema.me
   - DOMAIN,tracker.gazellegames.net
