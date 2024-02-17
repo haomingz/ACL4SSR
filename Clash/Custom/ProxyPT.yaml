@@ -1,6 +1,7 @@
 # PT
 payload:
   - DOMAIN-SUFFIX,avistaz.to
+  - DOMAIN-SUFFIX,blutopia.cc
   - DOMAIN-SUFFIX,torrentleech.me
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,hdbits.org
