@@ -1,0 +1,22 @@
+# Wise
+payload:
+  - DOMAIN,www.wise.com
+  - DOMAIN,wise.com
+  - DOMAIN,api.wise.com
+  - DOMAIN,gtm.wise.com
+  - DOMAIN,api.authy.com
+  - DOMAIN,status.wise.com
+  - DOMAIN,api.mixpanel.com
+  - DOMAIN,api-js.mixpanel.com
+  - DOMAIN,script.hotjar.com
+  - DOMAIN,static.hotjar.com
+  - DOMAIN,api.transferwise.com
+  - DOMAIN,loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com
+  - DOMAIN,sdk.fra-01.braze.eu
+  - DOMAIN,sdk-api-v1.singular.net
+  - DOMAIN,wi.se
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,transferwise.com
+  - DOMAIN-KEYWORD,wise
+  - DOMAIN-KEYWORD,transferwise
