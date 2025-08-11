@@ -1,8 +1,7 @@
 # N26
 payload:
-  - DOMAIN,api.tech26.de
-  - DOMAIN,cdn.number26.de
   - DOMAIN-SUFFIX,tech26.de
   - DOMAIN-SUFFIX,dev-tech26.de
   - DOMAIN-SUFFIX,number26.de
   - DOMAIN-SUFFIX,n26.com
+  - DOMAIN-KEYWORD,n26
