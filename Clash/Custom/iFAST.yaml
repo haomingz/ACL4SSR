@@ -1,0 +1,7 @@
+# iFAST
+payload:
+  - DOMAIN-SUFFIX,ifastgb.com
+  - DOMAIN-SUFFIX,ifastgp.com
+  - DOMAIN-SUFFIX,ifastcorp.com
+  - DOMAIN-SUFFIX,fundsupermart.com
+  - DOMAIN-KEYWORD,ifastgb

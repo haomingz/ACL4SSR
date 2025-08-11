@@ -1,4 +1,4 @@
-# Wise
+# Monzo
 payload:
   - USER-AGENT,Monzo*
   - USER-AGENT,monzo*
