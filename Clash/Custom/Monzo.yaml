@@ -1,0 +1,10 @@
+# Wise
+payload:
+  - USER-AGENT,Monzo*
+  - USER-AGENT,monzo*
+  - DOMAIN-SUFFIX,monzo.me
+  - DOMAIN-SUFFIX,monzo.com
+  - DOMAIN-SUFFIX,monzo-alt.net
+  - DOMAIN-SUFFIX,nonprod-ffs.io
+  - DOMAIN-SUFFIX,monzo.statuspage.io
+  - DOMAIN-KEYWORD,monzo

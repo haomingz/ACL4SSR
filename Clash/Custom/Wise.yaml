@@ -1,5 +1,7 @@
 # Wise
 payload:
+  - USER-AGENT,Wise*
+  - USER-AGENT,wise*
   - DOMAIN,www.wise.com
   - DOMAIN,wise.com
   - DOMAIN,api.wise.com
